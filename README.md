@@ -2,7 +2,6 @@
 
 This project demonstrates how to implement a **feedforward neural network** from scratch using only **NumPy**, without any high-level machine learning libraries like TensorFlow or PyTorch.
 
----
 
 ## 🔍 Overview
 
@@ -15,4 +14,3 @@ The implementation includes:
 - Prediction and evaluation functions
 - Support for **binary** and **multi-class classification**
 
----
